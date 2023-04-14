@@ -52,4 +52,5 @@
 -> ‘O nosso Brasil foi vice, não conseguindo bater a seleção dx {nome_adversario} na simulação’
 <br/><br/>
 <p>Caso o Brasil seja campeão, imprima:</p>
+<br/>
 -> 'O BRASIL VAI SER HEXAAAAAAAA’
